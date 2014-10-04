@@ -1,0 +1,17 @@
+# Log files
+*.log
+
+# Python bytecode
+*.py[co]
+
+# Local environment
+.env
+
+# Editor configs
+.idea
+
+# Packaging files
+venv
+
+# Apple
+*.DS_Store
