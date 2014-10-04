@@ -15,3 +15,6 @@ venv
 
 # Apple
 *.DS_Store
+
+# Static directory
+staticfiles
